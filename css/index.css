@@ -1,0 +1,18 @@
+/* styles.css */
+.hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(21, 21, 21, 0.7)), url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/15/22/1d/interior-of-coda-by-eric.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.hero-section h1 {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.price {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #007bff;
+}
